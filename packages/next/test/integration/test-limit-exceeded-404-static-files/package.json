@@ -6,7 +6,7 @@
     "_": "versions after 16.2.0-canary.16 don't include a 404 prerender in the lambda"
   },
   "dependencies": {
-    "next": "v16.2.0-canary.16",
+    "next": "v16.3.8",
     "react": "latest",
     "react-dom": "latest"
   }
