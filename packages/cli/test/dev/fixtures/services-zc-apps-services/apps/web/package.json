@@ -6,6 +6,6 @@
     "build": "vite build"
   },
   "dependencies": {
-    "vite": "6.2.0"
+    "vite": "6.4.5"
   }
 }
